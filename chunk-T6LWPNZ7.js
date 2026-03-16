@@ -1,1 +1,0 @@
-import{D as n,L as m,b as t,j as r}from"./chunk-G6D5DNAW.js";var a=[],i=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=r({type:o});static \u0275inj=t({imports:[m.forChild(a),m]})};var s=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=r({type:o});static \u0275inj=t({imports:[n,i]})};export{s as GalleryModule};
