@@ -4,6 +4,7 @@ import { Episode } from '../../../models/episode.model';
 
 @Component({
   selector: 'app-episodes',
+  standalone: false,
   templateUrl: './episodes.component.html',
   styleUrls: ['./episodes.component.scss']
 })
