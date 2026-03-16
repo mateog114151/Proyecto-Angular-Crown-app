@@ -1,0 +1,1 @@
+import{G as s,P as m,b as t,j as i}from"./chunk-DEFLX32V.js";var a=[],r=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=i({type:o});static \u0275inj=t({imports:[m.forChild(a),m]})};var n=class o{static \u0275fac=function(e){return new(e||o)};static \u0275mod=i({type:o});static \u0275inj=t({imports:[s,r]})};export{n as CastModule};
